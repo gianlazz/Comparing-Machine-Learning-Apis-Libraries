@@ -25,6 +25,10 @@ For those that like the most flexibility, I think Python SkLearn might still be 
 
 # Other Machine Learning Startups
 
+### BigML
+["Enjoy the power of Programmatic Machine Learning
+Shockingly simple machine learning tasks using BigML's REST API"](https://bigml.com/)
+
 ### indico.io
 ["Machine Learning for Human Use
 Combine your skills with the power of machine learning to discover the true potential of your text and image data."](/https://indico.io/)
