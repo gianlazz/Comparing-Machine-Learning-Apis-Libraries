@@ -15,10 +15,10 @@ https://www.ibm.com/watson/developercloud/starter-kits.html
 https://www.tensorflow.org/
 
 ### Amazon Web Services:
-[Amazon Machine Learning: use cases and a real example](/https://cloudacademy.com/blog/aws-machine-learning/)
+[Amazon Machine Learning: use cases and a real example](https://cloudacademy.com/blog/aws-machine-learning/)
 
 ### Microsoft Azure:
-[Azure Machine Learning: simplified predictive analytics](/https://cloudacademy.com/blog/azure-machine-learning/)
+[Azure Machine Learning: simplified predictive analytics](https://cloudacademy.com/blog/azure-machine-learning/)
 
 # Independant Code Libraries
 For those that like the most flexibility, I think Python SkLearn might still be the most versatile.
